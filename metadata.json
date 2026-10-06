@@ -1,0 +1,6 @@
+{
+  "name": "Question Paper Assistant AI",
+  "description": "AI-Powered Previous-Year Question Paper Analysis for College Students",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
