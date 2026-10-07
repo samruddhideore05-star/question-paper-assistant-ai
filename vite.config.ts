@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/question-paper-assistant-ai/',
+    base: "/question-paper-assistant-ai/",
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
